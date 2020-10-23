@@ -23,7 +23,7 @@ bot = telebot.TeleBot("TOKEN")
 @bot.message_handler(commands=['start'])
 def start(message):
     bot.send_message(message.chat.id, config.start)
-@bot.message_handler(content_types=['text'])
+@bot.message_handler(content_types=['text','photo','video'])
 def text(message):
     if message.from_user.id != config.main_id:
         q = bot.forward_message(config.main_id, message.chat.id, message.message_id)
