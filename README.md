@@ -1,4 +1,6 @@
 # livegrambot
+# Educoder
+
 This is free source livegram bot.
 
 Code can be installed and used for good purposes.
@@ -6,10 +8,7 @@ Code can be installed and used for good purposes.
 By using our code, you agree to have copyright icon on your bot.
 
 
-INSTRUCTIONS:
-
-
-BEFORE STEPS:
+BEFORE SETUP:
 
 
 `INSTALL PYTELEGRAMBOTAPI - pip3 install pytelegrambotapi`
@@ -44,3 +43,6 @@ step 3:
 
 
 Run this script, currently it was tested on Windows 10.
+
+**Currently, I am adding setup file to bot, so that it would be easier you to setup your bot.**
+New release is going to be published this week...
