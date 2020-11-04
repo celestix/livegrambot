@@ -23,6 +23,7 @@ then:
 
 edit this by what you want:
 
+blocked = "bot was blocked by the user"
 
 start = "Hello! This is your start message!"
 
@@ -36,7 +37,7 @@ unban = "you were unbanned by the admin."
 text_message = "Message that would be send if somebody writes any text"
 
 
-main_id = yourtelegramid #id without quotes
+main_id = yourtelegramid #id without quotes you also can write here group id
 
 
 
