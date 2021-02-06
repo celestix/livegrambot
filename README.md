@@ -49,6 +49,4 @@ Run this script, currently it was tested on Windows 10.
 
 Thank you.
 
-#Please donate me in telegram:
 
-@coder2020, also check out my russian channel: @educoder
